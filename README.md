@@ -39,3 +39,4 @@ Internship Details
 - Organization: Future Interns
 - Domain: UI/UX Design
 - Task: 01
+- https://www.figma.com/proto/oFOm9UnszKyCvUUhmZy1Jf/Untitled?node-id=140-51&starting-point-node-id=140%3A51&t=mU2CniV34tcU7Sfl-1
